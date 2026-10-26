@@ -6,3 +6,8 @@ Nmap (Network Mapper) is a powerful open-source tool used for network discovery 
 ## objective
 - to identify open ports
 - to scan network
+
+## Lab setup
+- vmware
+- attacker machine kali
+- target machine metasploitable2
