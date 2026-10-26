@@ -11,3 +11,7 @@ Nmap (Network Mapper) is a powerful open-source tool used for network discovery 
 - vmware
 - attacker machine kali
 - target machine metasploitable2
+
+ ## step 1 
+ - perform besic nmap scan
+<img width="1920" height="991" alt="kali-linux-2025 4-vmware-amd64 - VMware Workstation 10_26_2026 3_12_21 PM" src="https://github.com/user-attachments/assets/d48e1012-9f59-4bc5-9bf6-836468348c6a" />
